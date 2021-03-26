@@ -1,0 +1,29 @@
+{
+	"agcgw_all":{
+		"CN":"connect-drcn.hispace.hicloud.com",
+		"CN_back":"connect-drcn.dbankcloud.cn",
+		"DE":"connect-dre.hispace.hicloud.com",
+		"DE_back":"connect-dre.dbankcloud.cn",
+		"RU":"connect-drru.hispace.hicloud.com",
+		"RU_back":"connect-drru.dbankcloud.cn",
+		"SG":"connect-dra.hispace.hicloud.com",
+		"SG_back":"connect-dra.dbankcloud.cn"
+	},
+	"client":{
+		"cp_id":"80030000000052948",
+		"product_id":"736430079244860747",
+		"client_id":"589916135973978112",
+		"client_secret":"BF95F4E8E1913FF9E6AF4C4818D3CEAE81018D0CEAC22EA988D4F3477C648522",
+		"project_id":"736430079244860747",
+		"app_id":"104063225",
+		"api_key":"CgB6e3x9NmgwQV78GlurI6lcBSlBZxiNEvDc8fYnhj8+2qLsX3n0X5ry+Dd1cE+yR0eJ9KiQDIakI/RMcN3laYKJ",
+		"package_name":"com.example.huawei_sample_project"
+	},
+	"configuration_version":"2.0",
+	"appInfos":[
+		{
+			"package_name":"com.example.huawei_sample_project",
+			"app_id":"104063225"
+		}
+	]
+}
